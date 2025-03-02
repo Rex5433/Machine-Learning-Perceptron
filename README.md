@@ -1,3 +1,3 @@
 Perceptron Algorithm Website Link
 
-Link: https://youtu.be/BT4WzyT2g8k
+Link: https://rex5433.github.io/Machine-Learning-Perceptron/
